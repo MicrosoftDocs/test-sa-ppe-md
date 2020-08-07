@@ -30,6 +30,5 @@
     }
   ],
   "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false,
-  "use_docfxv3": false
+  "need_generate_pdf_url_template": false
 }
